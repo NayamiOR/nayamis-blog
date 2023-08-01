@@ -1,0 +1,9 @@
+site_name: Nayami's Blog
+
+theme:
+  name: material
+  logo: images/OR-icon.png
+
+nav:
+  - Home: index.md
+  - 基础知识: 类C语言基本语法介绍.md
