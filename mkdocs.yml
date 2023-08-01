@@ -3,7 +3,33 @@ site_name: Nayami's Blog
 theme:
   name: material
   logo: assets/OR-icon.png
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono, Jetbrains Mono'
+  # custom_dir: 'mkdocs-material/material'
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
 
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.instant
+  plugins: []
 nav:
   - Home: index.md
   - 热身:
