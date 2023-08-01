@@ -6,7 +6,9 @@ theme:
 
 nav:
   - Home: index.md
-  - 工具:
+  - 热身:
     - Git安装: git-install.md
+    - 学习资料:
+      - Python: python-materials.md
   - 基础知识: 
     - 类C语言基本语法介绍: 类C语言基本语法介绍.md
