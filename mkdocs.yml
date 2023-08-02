@@ -10,6 +10,7 @@ theme:
   # name: null
   name: material
   logo: assets/OR-icon.png
+  favicon: assets/OR-icon.png
   font:
     text: 'Fira Sans'
     code: 'Fira Mono, Jetbrains Mono'
