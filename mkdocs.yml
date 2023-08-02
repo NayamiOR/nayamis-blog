@@ -1,20 +1,22 @@
 site_name: Nayami's Blog
-# site_description: OI Wiki 是一个编程竞赛知识整合站点，提供有趣又实用的编程竞赛知识以及其他有帮助的内容，帮助广大编程竞赛爱好者更快更深入地学习编程竞赛
 site_description: 安逐悲的博客
 site_author: 安逐悲
-# site_url: https://oi-wiki.org
 strict: false
 # Repository
 repo_name: "NayamiOR/Nayami's Blog"
 repo_url: 'https://github.com/NayamiOR/nayamis-blog'
 
 theme:
+  # name: null
   name: material
   logo: assets/OR-icon.png
   font:
     text: 'Fira Sans'
     code: 'Fira Mono, Jetbrains Mono'
   # custom_dir: 'mkdocs-material/material'
+  # static_templates:
+  #   - 404.html
+
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -38,6 +40,7 @@ theme:
     - navigation.tabs
     - navigation.instant
   plugins: []
+
 nav:
   - Home: index.md
   - 热身:
@@ -46,3 +49,6 @@ nav:
       - Python: python-materials.md
   - 基础知识: 
     - 类C语言基本语法介绍: 类C语言基本语法介绍.md
+  - 杂记:
+    - 论Java和C#在基础语法上的相似度: Java-and-csharp.md
+    - 我自用的二分查找算法推荐: my-binary.md
