@@ -49,6 +49,8 @@ nav:
       - Python: python-materials.md
   - 基础知识: 
     - 类C语言基本语法介绍: 类C语言基本语法介绍.md
+  # - 算法笔记:
+  
   - 杂记:
     - 论Java和C#在基础语法上的相似度: Java-and-csharp.md
     - 我自用的二分查找算法推荐: my-binary.md
