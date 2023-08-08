@@ -51,6 +51,9 @@ nav:
   - 基础知识: 
     - 类C语言基本语法介绍: 类C语言基本语法介绍.md
   # - 算法笔记:
+  - 语言:
+    - 语言: language-intro.md
+    - C++学习建议: cpp-route.md
   
   - 杂记:
     - 论Java和C#在基础语法上的相似度: Java-and-csharp.md
