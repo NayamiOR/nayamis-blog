@@ -53,9 +53,8 @@ nav:
     - 语言: language-intro.md
     - C/C++:
       - C++学习建议: cpp-route.md
-    - Go:
-      
     - Rust:
+      - Rust 新手引路: Rust/新手引路.md
     - Python:
       - Python 学习指北: python-materials.md
   
