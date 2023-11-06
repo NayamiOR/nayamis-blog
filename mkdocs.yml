@@ -44,10 +44,8 @@ theme:
 
 nav:
   - Home: index.md
-  - 热身:
+  - 工具:
     - Git安装: git-install.md
-    - 学习资料:
-      - Python: python-materials.md
   - 基础知识: 
     - 类C语言基本语法介绍: 类C语言基本语法介绍.md
   # - 算法笔记:
@@ -58,6 +56,7 @@ nav:
     - Go:
     - Rust:
     - Python:
+      - Python 学习指北: python-materials.md
   
   - 杂记:
     - 论Java和C#在基础语法上的相似度: Java-and-csharp.md
