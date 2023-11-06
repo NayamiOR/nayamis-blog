@@ -57,7 +57,7 @@ nav:
       - Rust 新手引路: Rust/新手引路.md
       - 全知识点目录: Rust/全知识点目录.md
       - Clone 和 Copy Trait 的区别: Rust/Clone 和 Copy trait的区别.md
-      - 为什么 & 怎么在 Rust 中避免使用引用: 为什么 & 怎么在rust中避免使用引用.md
+      - 为什么 & 怎么在 Rust 中避免使用引用: Rust/为什么 & 怎么在rust中避免使用引用.md
       - Rust 字符串类型转换: Rust/Rust 字符串类型转换.md
     - Python:
       - Python 学习指北: python-materials.md
