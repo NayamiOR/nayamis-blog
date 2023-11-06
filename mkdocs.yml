@@ -44,15 +44,10 @@ theme:
 
 nav:
   - Home: index.md
-  - 工具:
-    - Git安装: git-install.md
   - 基础知识: 
-    - 类C语言基本语法介绍: 类C语言基本语法介绍.md
-  # - 算法笔记:
+    - 类C语言基本语法介绍: Base/类C语言基本语法介绍.md
+    - Git安装: Base/git-install.md
   - 语言:
-    - 语言: language-intro.md
-    - C/C++:
-      - C++学习建议: cpp-route.md
     - Rust:
       - Rust 新手引路: Rust/新手引路.md
       - 全知识点目录: Rust/全知识点目录.md
@@ -60,7 +55,9 @@ nav:
       - 为什么 & 怎么在 Rust 中避免使用引用: Rust/为什么 & 怎么在rust中避免使用引用.md
       - Rust 字符串类型转换: Rust/Rust 字符串类型转换.md
     - Python:
-      - Python 学习指北: python-materials.md
+      - Python 学习指北: Python/python-materials.md
+  - 算法:
+    - 二分查找: Algo/my-binary.md
   
   - 杂记:
     - 论Java和C#在基础语法上的相似度: Java-and-csharp.md
