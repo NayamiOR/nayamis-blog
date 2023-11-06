@@ -53,7 +53,11 @@ nav:
   # - 算法笔记:
   - 语言:
     - 语言: language-intro.md
-    - C++学习建议: cpp-route.md
+    - C/C++:
+      - C++学习建议: cpp-route.md
+    - Go:
+    - Rust:
+    - Python:
   
   - 杂记:
     - 论Java和C#在基础语法上的相似度: Java-and-csharp.md
