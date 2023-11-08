@@ -50,21 +50,30 @@ theme:
 nav:
   - Home: index.md
   - 基础知识: 
+    - 基础知识简介: Base/index.md
     - 类C语言基本语法介绍: Base/类C语言基本语法介绍.md
     - Git安装: Base/git-install.md
-  - 语言:
+  - 编程语言:
+    - 编程语言简介: ind-lang.md
     - Rust:
       - Rust 新手引路: Rust/新手引路.md
       - 全知识点目录: Rust/全知识点目录.md
       - Clone 和 Copy Trait 的区别: Rust/Clone 和 Copy trait的区别.md
       - 为什么 & 怎么在 Rust 中避免使用引用: Rust/为什么 & 怎么在rust中避免使用引用.md
       - Rust 字符串类型转换: Rust/Rust 字符串类型转换.md
+    - Go:
+      - 在 Go 中使用路由（基础）: Go/在Go中使用路由.md
+      - Go 进阶语法: Go/Go进阶语法.md
+      - Go Web 学习路线 & 资源: Go/Go Web学习路线 & 资源.md
     - Python:
       - Python 学习指北: Python/python-materials.md
   - 算法:
+    - 算法简介: Algo/index.md
     - 二分查找: Algo/my-binary.md
-  
-  - 杂记:
-    - 论Java和C#在基础语法上的相似度: Java-and-csharp.md
-    - 我自用的二分查找算法推荐: my-binary.md
+    - Codeforces 常用数学知识: Algo/CF-math.md
+  - 计算机科学:
+    - 计算机科学简介: CS/index.md
+    - 知乎：自学计算机优先级顺序: CS/自学计算机优先级顺序.md
+  # - 杂记:
+    
 
