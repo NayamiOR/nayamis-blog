@@ -18,7 +18,7 @@
 
 ![Alt text](../assets/git3.png)
 
-决定初始化新项目(仓库)的主干名字，第一种是让 Git 自己选择，名字是 master ，但是未来也有可能会改为其他名字；第二种是我们自行决定，默认是 main，当然，你也可以改为其他的名字。一般默认第一种，点击 [next] 到第七步。
+决定初始化新项目 (仓库)的主干名字，第一种是让 Git 自己选择，名字是 master ，但是未来也有可能会改为其他名字；第二种是我们自行决定，默认是 main，当然，你也可以改为其他的名字。一般默认第一种，点击 [next] 到第七步。
 
 ![Alt text](../assets/git4.png)
 
@@ -37,41 +37,41 @@
 
 ## 配置 GitHub 的 SSH
 
-> 一 、\
+> 一、\
 > 设置 Git 的 user name 和 email：\
-> $ git config --global user.name "xuhaiyan"\
-> $ git config --global user.email "haiyan.xu.vip@gmail.com"
+> $ git config --global user. name "xuhaiyan"\
+> $ git config --global user. email " haiyan.xu.vip@gmail.com "
 >
 > 二、生成 SSH 密钥过程：\
-> 1.查看是否已经有了 ssh 密钥：cd \~/.ssh\
+> 1. 查看是否已经有了 ssh 密钥：cd \~/. ssh\
 > 如果没有密钥则不会有此文件夹，有则备份删除\
-> 2.生存密钥：\
-> $ ssh-keygen -t rsa -C “haiyan.xu.vip@gmail.com”
+> 2. 生存密钥：\
+> $ ssh-keygen -t rsa -C “ haiyan.xu.vip@gmail.com ”
 >
 > 如果提示 ssh-keygen 不是内部命令或者。。。
 >
 > 这时候要配置环境变量，具体操作如下：
 >
-> 1.找到 Git/usr/bin 目录下的 ssh-keygen.exe(如果找不到，可以在计算机全局搜索)
+> 1. 找到 Git/usr/bin 目录下的 ssh-keygen.exe (如果找不到，可以在计算机全局搜索)
 >
-> 2.属性-->高级系统设置-->环境变量-->系统变量,找到 Path 变量，进行编辑，End 到最后，输入分号，粘贴复制的 ssh-keygen 所在的路径，保存；
+> 2. 属性-->高级系统设置-->环境变量-->系统变量, 找到 Path 变量，进行编辑，End 到最后，输入分号，粘贴复制的 ssh-keygen 所在的路径，保存；
 >
-> &#x20;
+> & #x20 ;
 > 按 3 个回车，密码为空。
 >
-> Your identification has been saved in /home/tekkub/.ssh/id_rsa.\
-> Your public key has been saved in /home/tekkub/.ssh/id_rsa.pub.\
+> Your identification has been saved in /home/tekkub/. ssh/id_rsa.\
+> Your public key has been saved in /home/tekkub/. ssh/id_rsa. pub.\
 > The key fingerprint is:\
 > ………………
 >
-> 最后得到了两个文件：id_rsa 和 id_rsa.pub
+> 最后得到了两个文件：id_rsa 和 id_rsa. pub
 >
-> 3.添加密钥到 ssh：ssh-add 文件名\
+> 3. 添加密钥到 ssh：ssh-add 文件名\
 > 需要之前输入密码。\
-> cd \~/.ssh 文件夹在：C:\Users\kingdee\\.ssh 有一个文件名为 id_rsa.pub，把里面的内容复制到 git 库的我的 SSHKEYs 中
+> cd \~/. ssh 文件夹在：C:\Users\kingdee\\. ssh 有一个文件名为 id_rsa. pub，把里面的内容复制到 git 库的我的 SSHKEYs 中
 >
-> 4.在 github 上添加 ssh 密钥，这要添加的是“id_rsa.pub”里面的公钥。\
-> 打开https://github.com/ ，登陆 xuhaiyan825，然后添加 ssh。
+> 4. 在 github 上添加 ssh 密钥，这要添加的是“id_rsa. pub”里面的公钥。\
+> 打开 https://github.com/ ，登陆 xuhaiyan825，然后添加 ssh。
 
 ## 使用
 

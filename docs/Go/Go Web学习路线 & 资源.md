@@ -6,7 +6,7 @@
 
 # 开源库（Github：7days-golang）
 
-进步最快的方式是找一些经典的开源库学习，这样能够最快地学到 Go 语言在实际中是如何应用的。推荐 [7days-golang](https://link.zhihu.com/?target=https%3A//github.com/geektutu/7days-golang) 这个项目，每次花七天时间模仿一个经典库的实现。这些库的代码规模一般比较大，因此选取了最重要的特性，拆分为7天实现，每天的代码都是独立文件夹保存的，每个子项目代码规模均在 500 行左右，非常适合进一步学习。目前已经实现：
+进步最快的方式是找一些经典的开源库学习，这样能够最快地学到 Go 语言在实际中是如何应用的。推荐 [7days-golang](https://link.zhihu.com/?target=https%3A//github.com/geektutu/7days-golang) 这个项目，每次花七天时间模仿一个经典库的实现。这些库的代码规模一般比较大，因此选取了最重要的特性，拆分为 7 天实现，每天的代码都是独立文件夹保存的，每个子项目代码规模均在 500 行左右，非常适合进一步学习。目前已经实现：
 
 ### [Gee](https://link.zhihu.com/?target=http%3A//geektutu.com/post/gee.html)：模仿 gin 实现的 Web 框架。
 
@@ -57,7 +57,7 @@
 
 ---
 
-# Go学习路线图
+# Go 学习路线图
 
 [https://github.com/Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
