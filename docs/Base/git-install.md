@@ -46,7 +46,7 @@
 > 1. 查看是否已经有了 ssh 密钥：cd \~/. ssh\
 > 如果没有密钥则不会有此文件夹，有则备份删除\
 > 2. 生存密钥：\
-> $ ssh-keygen -t rsa -C “ haiyan.xu.vip@gmail.com ”
+> $ ssh-keygen -t rsa -C " haiyan.xu.vip@gmail.com "
 >
 > 如果提示 ssh-keygen 不是内部命令或者。。。
 >

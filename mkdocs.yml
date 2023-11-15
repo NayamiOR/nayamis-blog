@@ -14,31 +14,26 @@ markdown_extensions:
   - pymdownx.snippets
 
 theme:
-  # name: null
   name: material
   logo: assets/OR-icon.png
   favicon: assets/OR-icon.png
   font:
     text: 'Fira Sans'
     code: 'Fira Mono, Jetbrains Mono'
-  # custom_dir: 'mkdocs-material/material'
-  # static_templates:
-  #   - 404.html
   palette:
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: green
-      accent: red
+      accent: light green
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
 
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+      scheme:  slate
       primary: blue
-      accent: blue
+      accent: light blue
+
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -74,6 +69,3 @@ nav:
   - 计算机科学:
     - 计算机科学简介: CS/index.md
     - 知乎：自学计算机优先级顺序: CS/自学计算机优先级顺序.md
-  # - 杂记:
-    
-
