@@ -63,8 +63,8 @@ nav:
     - Python:
       - Python 学习指北: Python/python-materials.md
   - 算法:
-    - 算法竞赛入门大纲（蓝桥向）: Algo\introHandBook-LanQiao.md
     - 算法简介: Algo/index.md
+    - 算法竞赛入门大纲（蓝桥向）: Algo/introHandBook-LanQiao.md
     - 二分查找: Algo/my-binary.md
     - Codeforces 常用数学知识: Algo/CF-math.md
   - 计算机科学:
