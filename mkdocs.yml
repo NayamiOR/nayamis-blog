@@ -42,6 +42,9 @@ theme:
     - navigation.instant
   plugins: []
 
+extra_css:
+  - assets/extra.css
+
 nav:
   - Home: index.md
   - 基础知识: 
