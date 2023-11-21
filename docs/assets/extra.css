@@ -1,3 +1,15 @@
-.md-typeset h1 { color: #fc9867;font-weight:600; }
-.md-typeset h2 { color: #a9dc76;font-weight: 600; }
-.md-typeset h3 { color: #ffd866; font-weight: 600;}
+.md-typeset h1 {
+  color: #fc9867;
+  font-weight: 600;
+  -webkit-text-stroke: 0.3px #ff732d;
+}
+.md-typeset h2 {
+  color: #a9dc76;
+  font-weight: 600;
+  -webkit-text-stroke: 0.3px #9aeb49;
+}
+.md-typeset h3 {
+  color: #ffd866;
+  font-weight: 600;
+  -webkit-text-stroke: 0.3px #f9c62a;
+}
