@@ -34,7 +34,27 @@
 
 #### 深度优先搜索：DFS
 
+- [LeetCode 200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
+- [LeetCode 130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
+- [LeetCode 547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/)
+- [LeetCode 695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
+- [LeetCode 733. 图像渲染](https://leetcode-cn.com/problems/flood-fill/)
+- [LeetCode 797. 所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)
+
 #### 广度优先搜索：BFS
+
+- [LeetCode 102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+- [LeetCode 107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
+- [LeetCode 116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
+- [LeetCode 117. 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)
+- [LeetCode 100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
+- [LeetCode 104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+- [LeetCode 200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
+- [LeetCode 130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
+- [LeetCode 547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/)
+- [LeetCode 695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
+- [LeetCode 733. 图像渲染](https://leetcode-cn.com/problems/flood-fill/)
+- [LeetCode 797. 所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)
 
 #### 回溯
 
@@ -56,23 +76,39 @@
 
 #### 矩阵
 
-#### 字符串
-
-#### 数组
-
 #### 背包
 
 ## 数据结构
 
+### 字符串
+
 ### 数组
 
 ### 链表
+
+- [LeetCode 21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+- [LeetCode 83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
+- [LeetCode 19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+- [LeetCode 141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+- [LeetCode 142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+- [LeetCode 203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
+- [LeetCode 206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+- [LeetCode 237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
 
 ### 栈 & 队列
 
 ### 哈希表
 
 ### 树
+
+#### 二叉树
+
+-[LeetCode 144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) -[LeetCode 94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) -[LeetCode 145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) -[LeetCode 102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) -[LeetCode 107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
+
+- [LeetCode 104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+- [LeetCode 116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
+
+#### 二叉搜索树
 
 ### 堆 & 优先队列
 
