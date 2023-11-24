@@ -5,7 +5,7 @@ strict: false
 # Repository
 repo_name: "NayamiOR/Nayami's Blog"
 repo_url: "https://github.com/NayamiOR/nayamis-blog"
-
+dev_addr: "127.0.0.1:18080"
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -55,19 +55,20 @@ nav:
       - 类C语言基本语法介绍: Base/类C语言基本语法介绍.md
       - Git安装: Base/git-install.md
   - 编程语言:
-      - 编程语言简介: Languages/index.md
+      - 编程语言简介: Programming/index.md
       - Rust:
-          - Rust 新手引路: Languages/Rust/新手引路.md
-          - 全知识点目录: Languages/Rust/全知识点目录.md
-          - Clone 和 Copy Trait 的区别: Languages/Rust/Clone 和 Copy trait的区别.md
-          - 为什么 & 怎么在 Rust 中避免使用引用: Languages/Rust/为什么 & 怎么在rust中避免使用引用.md
-          - Rust 字符串类型转换: Languages/Rust/Rust 字符串类型转换.md
+          - Rust 新手引路: Programming/Rust/新手引路.md
+          - 全知识点目录: Programming/Rust/全知识点目录.md
+          - Clone 和 Copy Trait 的区别: Programming/Rust/Clone 和 Copy trait的区别.md
+          - 为什么 & 怎么在 Rust 中避免使用引用: Programming/Rust/为什么 & 怎么在rust中避免使用引用.md
+          - Rust 字符串类型转换: Programming/Rust/Rust 字符串类型转换.md
       - Go:
-          - 在 Go 中使用路由（基础）: Languages/Golang/在Go中使用路由.md
-          - Go 进阶语法: Languages/Golang/Go进阶语法.md
-          - Go Web 学习路线 & 资源: Languages/Golang/Golang Web学习路线 & 资源.md
+          - 在 Go 中使用路由（基础）: Programming/Golang/在Go中使用路由.md
+          - Go 进阶语法: Programming/Golang/Go进阶语法.md
+          - Go Web 学习路线 & 资源: Programming/Golang/Go_Web学习路线_资源.md
       - Python:
-          - Python 学习指北: Languages/Python/python-materials.md
+          - Python 学习指北: Programming/Python/python-materials.md
+      - 指针、引用和类导论（Beta版）: Programming/Skills/ptr-ref-class (Beta).md
   - 算法:
       - 算法简介: Algo/index.md
       - 算法竞赛入门大纲（蓝桥向）: Algo/introHandBook-LanQiao.md
