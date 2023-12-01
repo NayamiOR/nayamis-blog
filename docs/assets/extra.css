@@ -1,26 +1,26 @@
 .md-typeset h1 {
   color: #fc9867;
   font-weight: 600;
-  -webkit-text-stroke: 0.2px #ff732d;
+  /* -webkit-text-stroke: 0.2px #ff732d; */
 }
 .md-typeset h2 {
   color: #a9dc76;
   font-weight: 600;
-  -webkit-text-stroke: 0.2px #9aeb49;
+  /* -webkit-text-stroke: 0.2px #9aeb49; */
 }
 .md-typeset h3 {
   color: #ffd866;
   font-weight: 600;
-  -webkit-text-stroke: 0.2px #f9c62a;
+  /* -webkit-text-stroke: 0.2px #f9c62a; */
 }
 .md-typeset h4 {
   color: #ab9df2;
   font-weight: 600;
-  -webkit-text-stroke: 0.2px #7f66ff;
+  /* -webkit-text-stroke: 0.2px #7f66ff; */
 }
 
 .md-typeset h5 {
   color: #ff6188;
   font-weight: 600;
-  -webkit-text-stroke: 0.2px #f84773;
+  /* -webkit-text-stroke: 0.2px #f84773; */
 }
