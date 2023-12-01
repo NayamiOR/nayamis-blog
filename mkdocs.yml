@@ -13,14 +13,17 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.snippets
   - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.arithmatex:
       generic: true
 
 extra_javascript:
-  - javascripts/katex.js 
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
+  - javascripts/katex.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 
 extra_css:
@@ -64,6 +67,7 @@ nav:
       - Git安装: Base/git-install.md
   - 编程语言:
       - 编程语言简介: Programming/index.md
+      - 学习编程语言的五要素: Programming/Skills/five-aspects-of-learning-a-pl.md
       - Rust:
           - Rust 新手引路: Programming/Rust/新手引路.md
           - 全知识点目录: Programming/Rust/全知识点目录.md
