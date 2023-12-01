@@ -73,6 +73,7 @@ nav:
       - 算法简介: Algo/index.md
       - 算法竞赛入门大纲（蓝桥向）: Algo/introHandBook-LanQiao.md
       - 算法入门题单: Algo/algo-checklist.md
+      - 算法入门必备知识：复杂度: Algo/complexity.md
       - 二分查找: Algo/my-binary.md
       - Codeforces 常用数学知识: Algo/CF-math.md
   - 计算机科学:
