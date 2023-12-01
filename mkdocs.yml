@@ -15,6 +15,17 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/katex.js 
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+  - assets/extra.css
 
 theme:
   name: material
@@ -44,9 +55,6 @@ theme:
     - navigation.tabs
     - navigation.instant
   plugins: []
-
-extra_css:
-  - assets/extra.css
 
 nav:
   - Home: index.md
