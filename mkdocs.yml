@@ -88,6 +88,8 @@ nav:
       - 算法入门必备知识：复杂度: Algo/complexity.md
       - 二分查找: Algo/my-binary.md
       - Codeforces 常用数学知识: Algo/CF-math.md
+      - 动态规划:
+          - 01背包之：从递归到迭代: Algo/01backpack-recur2iter.md
   - 计算机科学:
       - 计算机科学简介: CS/index.md
       - 知乎：自学计算机优先级顺序: CS/自学计算机优先级顺序.md
