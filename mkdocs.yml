@@ -93,3 +93,5 @@ nav:
   - 计算机科学:
       - 计算机科学简介: CS/index.md
       - 知乎：自学计算机优先级顺序: CS/自学计算机优先级顺序.md
+  - GitHub 仓库推荐:
+    - 程序猿 Roadmap：developer-roadmap: Github/developer-roadmap.md
