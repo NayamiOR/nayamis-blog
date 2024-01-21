@@ -26,7 +26,6 @@
 
 - [LeetCode 1. 两数之和](https://leetcode.cn/problems/two-sum/)
 - [LeetCode 657. 机器人能否返回原点](https://leetcode.cn/problems/robot-return-to-origin/)
-- [LeetCode 1275. 找出井字棋的获胜者](https://leetcode.cn/problems/find-winner-on-a-tic-tac-toe-game/)
 - [LeetCode 1041. 困于环中的机器人](https://leetcode.cn/problems/robot-bounded-in-circle/)
 - [LeetCode 54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)
 - [LeetCode 485. 最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/)
