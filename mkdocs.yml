@@ -7,8 +7,11 @@ repo_name: "NayamiOR/Nayami's Blog"
 repo_url: "https://github.com/NayamiOR/nayamis-blog"
 dev_addr: "127.0.0.1:18080"
 markdown_extensions:
+  - toc:
+      permalink: true
   - pymdownx.highlight:
       anchor_linenums: true
+  - md_in_html
   - pymdownx.inlinehilite
   - pymdownx.superfences
   - pymdownx.snippets
@@ -89,6 +92,7 @@ nav:
       - 二分查找: Algo/my-binary.md
       - Codeforces 常用数学知识: Algo/CF-math.md
       - 算法学习路线（英雄哥）: Algo/algo-roadmap.md
+      - 算法学习路线 (思维导图): Algo/algo-roadmap.html
       - 动态规划:
           - 01背包之：从递归到迭代: Algo/01backpack-recur2iter.md
           - 经典01背包踩坑记录: Algo/classic-01backpack.md
